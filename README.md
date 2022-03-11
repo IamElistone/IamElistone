@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IamElistone
-- 👀 I’m interested in ...Fullstack developer 
+- 👀 I’m interested in ...Fullstack development.
 - 🌱 I’m currently learning ...Frameworks 
-- 💞️ I’m looking to collaborate on ...website applications and fronted developments 
+- 💞️ I’m looking to collaborate on ...website applications and fronted developments.
 - 📫 How to reach me ...twitter IamElistone.
 
 <!---
